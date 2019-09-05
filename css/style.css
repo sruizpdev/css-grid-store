@@ -108,3 +108,10 @@ img {
     grid-column: 2 / 4;
   }
 }
+footer{
+    color:white;
+    display: flex;
+    justify-content: center;
+    background-color: var(--primarioOscuro);
+    margin-top:2rem;
+}
